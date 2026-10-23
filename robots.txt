@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iqraazmatazcom.github.io/bespoke-carriage-co-ltd/sitemap.xml
